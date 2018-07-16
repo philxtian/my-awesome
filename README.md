@@ -1,5 +1,5 @@
 # MY AWESOME
-A collection of interesting Open Source Libraries in Github.
+A collection of awesome Open Source Libraries in Github.
 
 ## BACK-END DEVELOPMENT
 
